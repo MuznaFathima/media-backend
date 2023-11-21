@@ -1,0 +1,110 @@
+{
+  "videos": [
+    {
+      "id": "3",
+      "caption": "Neela Nilave",
+      "thumbnail": "https://a10.gaanacdn.com/gn_img/albums/koMWQBbqLE/MWQ4gdQM3q/size_l.jpg",
+      "url": "https://www.youtube.com/embed/nYEoxne_20Y"
+    },
+    {
+      "id": "6",
+      "caption": "Manithan",
+      "thumbnail": "https://i.ytimg.com/vi/My_S68DAAPg/maxresdefault.jpg",
+      "url": "https://www.youtube.com/embed/My_S68DAAPg"
+    },
+    {
+      "id": "13",
+      "caption": "Kesariya",
+      "thumbnail": "https://i.ytimg.com/vi/BddP6PYo2gs/maxresdefault.jpg",
+      "url": "https://www.youtube.com/embed/BddP6PYo2gs"
+    },
+    {
+      "id": "14",
+      "caption": "world cup:India",
+      "thumbnail": "https://www.poornima.edu.in/wp-content/uploads/2023/10/india-cricket-team-world-cup-2023_e887a01ff.jpg",
+      "url": "https://www.youtube.com/embed/WQdqgrWvy6g"
+    },
+    {
+      "id": "21",
+      "caption": "Aadu 2",
+      "thumbnail": "https://i.ytimg.com/vi/_jlVhEs75Fo/maxresdefault.jpg",
+      "url": "https://www.youtube.com/embed/lmt0TekckUc"
+    },
+    {
+      "id": "22",
+      "caption": "karikku-onam",
+      "thumbnail": "https://i.ytimg.com/vi/2oRpHNsPShI/maxresdefault.jpg",
+      "url": "https://www.youtube.com/embed/InGnxypZY7s"
+    }
+  ],
+  "categories": [
+    {
+      "id": "15",
+      "name": "song",
+      "allVideos": [
+        {
+          "id": "13",
+          "caption": "Kesariya",
+          "thumbnail": "https://i.ytimg.com/vi/BddP6PYo2gs/maxresdefault.jpg",
+          "url": "https://www.youtube.com/embed/BddP6PYo2gs"
+        }
+      ]
+    },
+    {
+      "id": "16",
+      "name": "Movies",
+      "allVideos": [
+        {
+          "id": "21",
+          "caption": "Aadu 2",
+          "thumbnail": "https://i.ytimg.com/vi/_jlVhEs75Fo/maxresdefault.jpg",
+          "url": "https://www.youtube.com/embed/lmt0TekckUc"
+        }
+      ]
+    },
+    {
+      "id": "21",
+      "name": "Sports",
+      "allVideos": [
+        {
+          "id": "14",
+          "caption": "world cup:India",
+          "thumbnail": "https://www.poornima.edu.in/wp-content/uploads/2023/10/india-cricket-team-world-cup-2023_e887a01ff.jpg",
+          "url": "https://www.youtube.com/embed/WQdqgrWvy6g"
+        }
+      ]
+    }
+  ],
+  "watchhistory": [
+    {
+      "id": 1,
+      "cardName": "Neela Nilave",
+      "url": "https://www.youtube.com/embed/MMO5Askw3Ak",
+      "date": "14-08-2023"
+    },
+    {
+      "id": "4c97e977-5683-40c3-872e-5d00a45f168e",
+      "cardName": "Manithan",
+      "url": "https://www.youtube.com/embed/My_S68DAAPg",
+      "date": "2023-11-15T14:54:35.554Z"
+    },
+    {
+      "id": "4eaf05e3-9486-4565-93d2-156b353dc946",
+      "cardName": "Rakka Rakka",
+      "url": "https://www.youtube.com/embed/MMO5Askw3Ak",
+      "date": "2023-11-15T14:55:30.585Z"
+    },
+    {
+      "id": "e381147d-8b94-465e-83b3-c2805c82cb9c",
+      "cardName": "Neela Nilave",
+      "url": "https://www.youtube.com/embed/nYEoxne_20Y",
+      "date": "2023-11-20T02:59:00.707Z"
+    },
+    {
+      "id": "0619e57c-dea0-40e9-be8e-c08fa29f25a0",
+      "cardName": "Neela Nilave",
+      "url": "https://www.youtube.com/embed/nYEoxne_20Y",
+      "date": "2023-11-20T11:25:11.475Z"
+    }
+  ]
+}

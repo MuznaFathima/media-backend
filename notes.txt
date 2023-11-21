@@ -1,0 +1,5 @@
+ // only use embed code if you want video to play automatically. take it from iframe
+
+
+in react instead of using api call in each components, we give one common api call
+
